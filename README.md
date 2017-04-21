@@ -1,5 +1,9 @@
 # MinioSpacesTest
 
+This is an application test to check a possible bug on Minio.
+
+For more info check minio issue: https://github.com/minio/minio/issues/4162
+
 ## How to run it
 
 1. Install Elixir (tested with version `1.4.2`).
